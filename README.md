@@ -20,7 +20,7 @@ To install the Electron Hello World, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-github-username>/electron-hello-world.git
+git clone https://github.com/ArthurGareginyan/electron-hello-world.git
 ```
 
 2. Navigate to the project directory:
@@ -54,8 +54,8 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 
 ## Contact
 
-If you want to contact me, you can reach me at `<your-email>`.
+If you want to contact me, you can reach me at `arthurgareginyan@gmail.com`.
 
 ## License
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the MIT License. See the [LICENSE](https://github.com/ArthurGareginyan/electron-hello-world/blob/main/LICENSE) file for more information.
