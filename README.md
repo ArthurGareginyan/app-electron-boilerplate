@@ -3,6 +3,15 @@
 
 This is a simple boilerplate for an Electron application. It includes the minimal setup required to create a desktop application using Electron.
 
+This boilerplate includes the following files:
+
+1. `package.json` - This file includes metadata about the application like its name and version, and it defines the start command that will launch the app.
+2. `main.js` - This is the main entry point for the Electron app, and it typically opens a browser window and loads an HTML file.
+3. `index.html` - This is the HTML file that is displayed in the application's window.
+4. `README.md` - This is the file you're reading now. It provides a helpful introduction to the project and instructions on how to use it.
+5. `LICENSE` - This file contains the text of the MIT License, which is the open-source license under which this project is made available.
+6. `.gitignore` - This file tells Git which files and directories to ignore when committing changes to the project.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
