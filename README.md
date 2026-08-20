@@ -1,6 +1,19 @@
 
 # Electron Hello World
 
+> **ARCHIVED — 2026-08-20.** This project has been **migrated to the Space X-Chimp playbook**
+> and is no longer developed in place.
+>
+> The `app-electron-boilerplate` project became the canonical clone-ready **`playbook/scaffold/`**
+> (Profile U — Minimal Utility, on the shared profile-agnostic core), which is now the verified
+> starter for new family apps — with a self-contained placeholder doc suite and a zero-dep smoke
+> harness. New apps boot from the playbook scaffold, not from this repo.
+>
+> Full history: started **2023-07-22** (10 commits, 2023-07-22 → 2023-09-01, this repo's own git
+> records), published on GitHub **2023**, rebuilt to the family standard **2026-08-19**, migrated
+> into the playbook **2026-08-20**. The timeline is recorded in the playbook's
+> `scaffold/README.md` (Provenance). This archive is retained as the project's historical ancestor.
+
 This is a simple boilerplate for an Electron application. It includes the minimal setup required to create a desktop application using Electron.
 
 This boilerplate includes the following files:
